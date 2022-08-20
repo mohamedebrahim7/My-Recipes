@@ -1,6 +1,6 @@
-# recpie_app
+# My Recipes App
 
-chap 9 project.
+app that use SqlFlite db and moor (Drift) db
 
 ## Getting Started
 
