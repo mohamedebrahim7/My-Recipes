@@ -1,16 +1,15 @@
 # My Recipes App
 
-app that use SqlFlite db and moor (Drift) db
+What I did:
+Created a recipe app with functionalities for inserting, fetching, and removing recipes or ingredients.
 
-## Getting Started
+How I did it:
+Utilized the sqflite plugin to implement SQLite-based databases for persistent data storage. Incorporated streams to receive real-time updates.
 
-This project is a starting point for a Flutter application.
+Results:
+Developed a cross-platform app (Android and iOS) that effectively manages recipes and ingredients, utilizing SQLite databases for data persistence. The use of streams enables seamless updates and synchronization with the database.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
